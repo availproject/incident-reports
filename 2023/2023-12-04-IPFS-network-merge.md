@@ -2,7 +2,7 @@
 
 ## Authors
 
-@Ljubisa Isakovic
+[@sh3ll3x3c](https://github.com/sh3ll3x3c)
 
 ## Status
 
